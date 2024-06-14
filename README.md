@@ -4,8 +4,8 @@ odkaz na stránku: http://clashofolomoucka.kvalitne.cz
 fiktivní organizace zabívající se předem domluvenými utkáními mezi dvoumi, případně více jedinci v online videohrách, jako je CS2 a podobně
 
 HTML - základní struktura webové stránky
-PHP - využito na to, abych nemusel upravovat každou podstránku zválšť - jsou nalinkovány pomocí PHP
-CSS - rozložení stránek
+PHP - využito na to, abych nemusel upravovat header apod. na každoé podstráce zválšť - jsou nalinkovány pomocí PHP
+CSS - stylování stránek
 JS - nn
 
 
