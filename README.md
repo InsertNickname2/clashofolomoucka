@@ -1,7 +1,7 @@
 odkaz na stránku: http://clashofolomoucka.kvalitne.cz
 
 ------ CLASH OF OLOMOUCKÁ ------
-fiktivní organizace zabívající se předem domluvenými utkáními mezi dvoumi, případně více jedinci v online videohrách, jako je CS2 a podobně
+fiktivní organizace zabývající se předem domluvenými utkáními mezi dvěma, případně více jedinci v online videohrách, jako je CS2 a podobně
 
 HTML - základní struktura webové stránky
 PHP - využito na to, abych nemusel upravovat header apod. na každoé podstráce zválšť - jsou nalinkovány pomocí PHP
