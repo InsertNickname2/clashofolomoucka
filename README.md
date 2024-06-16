@@ -6,7 +6,7 @@ fiktivní organizace zabývající se předem domluvenými utkáními mezi dvěm
 HTML - základní struktura webové stránky
 PHP - využito na to, abych nemusel upravovat header apod. na každoé podstráce zválšť - jsou nalinkovány pomocí PHP
 CSS - stylování stránek
-JS - nn
+JS - Otázka ,,Jste můž?" při vstupu na stráku
 
 
 
