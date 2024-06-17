@@ -11,6 +11,7 @@ JS - Otázka ,,Jste můž?" při vstupu na stráku
 
 
 
+powerpoint prezentace: https://sstebrnocz-my.sharepoint.com/:p:/g/personal/58818gloser_student_sstebrno_cz/ES87B8kpXjFLu2S_EPxZWRUB6UGH3C98uif7aPF8eBL6iA?e=IxNfOT
 
 
 
@@ -27,4 +28,3 @@ JS - Otázka ,,Jste můž?" při vstupu na stráku
 
 
 
-https://sstebrnocz-my.sharepoint.com/:w:/g/personal/karel_vysinka_sstebrno_cz1/EVZH2OuGxFNFmPvqzQW8DeYBAqffr-mQsrf-j7uiZN-qNQ?rtime=Eyrf18B_3Eg
